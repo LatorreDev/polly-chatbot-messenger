@@ -2,4 +2,4 @@ curl -X DELETE -H "Content-Type: application/json" -d '{
 "setting_type": "call_to_actions",
 "thread_state": "existing_thread"
 }
-' "https://graph.facebook.com/v2.6/me/thread_settings?access_token=EAAJ4tPYZBaeMBAA9FiogHsdcgHMr9MMD6GOj2iA0zHVpFHbY6mDIMq6DLCIxv7agvoLf9GtRbddK5XySdOZCLKZAUVVyhfRZC3znRv1r32GqZCoKq4NIdO9k6YFpZCxAN2v0mAuhj5nM3qMxpkjmjVeplq63yXWIdqrYDMUE8fls8WtvV4scxU"
+' "https://graph.facebook.com/v2.6/me/thread_settings?access_token=TOKEN"
